@@ -1,12 +1,12 @@
-Sentiment Analysis Dashboard
+## Sentiment Analysis Dashboard
 
 This project performs Sentiment Analysis on text data and visualizes the results using an interactive dashboard.
 
-Features
+## Features
 - Analyzes text data to classify sentiments (Positive, Negative, Neutral).
 - Displays results in an interactive Streamlit web app.
 
-Tools Used
+## Tools Used
 - Python
 - Streamlit
 - Pandas
@@ -14,10 +14,10 @@ Tools Used
 - Scikit-learn (if used)
 - NLP techniques
 
- Live Demo
+ ## Live Demo
 🔗 [Click here to view the live dashboard](https://sentiment-dashboard-dnnndxebpxcatamquxdjnd.streamlit.app/)
 
-How to run locally
+## How to run locally
 ```bash
 git clone YOUR_GITHUB_REPO_URL
 cd project_folder
